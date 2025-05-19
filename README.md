@@ -5,8 +5,7 @@
 
 Welcome to my submission for the Cowrywise Data Analyst role. This repository showcases how I approached the SQL-based assessment, designed to dig deep into user behavior, transaction trends, and key business metrics using data from the **Adashi fintech platform**.
 
-I’ve broken down each question to highlight not just the *what*, but the *why* behind my decisions — from cleaning the data to interpreting results in a business context.
-
+I’ve broken down each question to highlight not just the *what*, but the *why* behind my decisions 
 ---
 
 ## Database Overview
